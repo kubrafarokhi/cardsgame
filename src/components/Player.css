@@ -1,0 +1,20 @@
+.player{
+    height: 100px;
+}
+.card-body{
+    background-color: azure;
+}
+.addHighlightClass{
+    background-color: greenyellow ;
+}
+
+.btn{
+    background-color:indigo;
+}
+.selectedCards{
+    overflow-x: auto;
+}
+p{
+    font-size: 12px;
+    font-weight: bold;
+}
